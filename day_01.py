@@ -34,7 +34,3 @@ def part_two():
                 if position % 100 == 0:
                     x += 1
     print(x)
-
-
-if __name__ == '__main__':
-    part_two()
